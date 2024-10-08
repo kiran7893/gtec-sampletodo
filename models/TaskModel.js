@@ -1,7 +1,4 @@
-
 const db = require('../db/Db');
-
-
 
 const Todo = {
   getAllTodos: (callback) => {
